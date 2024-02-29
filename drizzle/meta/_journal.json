@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1708702383925,
+      "tag": "0000_mushy_shiver_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1708864722295,
+      "tag": "0001_first_genesis",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1708961951169,
+      "tag": "0002_flimsy_electro",
+      "breakpoints": true
+    }
+  ]
+}
